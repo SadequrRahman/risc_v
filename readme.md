@@ -7,47 +7,6 @@ This repo is contain the implementation of risc-v in verilog. Currently it imple
 ```
 ```
 📦risc_v<br/>
- ┣ 📂.git<br/>
- ┃ ┣ 📂hooks<br/>
- ┃ ┃ ┣ 📜applypatch-msg.sample<br/>
- ┃ ┃ ┣ 📜commit-msg.sample<br/>
- ┃ ┃ ┣ 📜fsmonitor-watchman.sample<br/>
- ┃ ┃ ┣ 📜post-update.sample<br/>
- ┃ ┃ ┣ 📜pre-applypatch.sample<br/>
- ┃ ┃ ┣ 📜pre-commit.sample<br/>
- ┃ ┃ ┣ 📜pre-merge-commit.sample<br/>
- ┃ ┃ ┣ 📜pre-push.sample<br/>
- ┃ ┃ ┣ 📜pre-rebase.sample<br/>
- ┃ ┃ ┣ 📜pre-receive.sample<br/>
- ┃ ┃ ┣ 📜prepare-commit-msg.sample<br/>
- ┃ ┃ ┣ 📜push-to-checkout.sample<br/>
- ┃ ┃ ┗ 📜update.sample<br/>
- ┃ ┣ 📂info<br/>
- ┃ ┃ ┗ 📜exclude<br/>
- ┃ ┣ 📂logs<br/>
- ┃ ┃ ┣ 📂refs<br/>
- ┃ ┃ ┃ ┣ 📂heads<br/>
- ┃ ┃ ┃ ┃ ┗ 📜master<br/>
- ┃ ┃ ┃ ┗ 📂remotes<br/>
- ┃ ┃ ┃ ┃ ┗ 📂origin<br/>
- ┃ ┃ ┃ ┃ ┃ ┗ 📜master<br/>
- ┃ ┃ ┗ 📜HEAD<br/>
- ┃ ┣ 📂objects<br/>
- ┃ ┃ ┣...<br/>
- ┃ ┃ ┣ 📂info<br/>
- ┃ ┃ ┗ 📂pack<br/>
- ┃ ┣ 📂refs<br/>
- ┃ ┃ ┣ 📂heads<br/>
- ┃ ┃ ┃ ┗ 📜master<br/>
- ┃ ┃ ┣ 📂remotes<br/>
- ┃ ┃ ┃ ┗ 📂origin<br/>
- ┃ ┃ ┃ ┃ ┗ 📜master<br/>
- ┃ ┃ ┗ 📂tags<br/>
- ┃ ┣ 📜COMMIT_EDITMSG<br/>
- ┃ ┣ 📜config<br/>
- ┃ ┣ 📜description<br/>
- ┃ ┣ 📜HEAD<br/>
- ┃ ┗ 📜index<br/>
  ┣ 📂img<br/>
  ┃ ┗ 📜gtkwave_001.JPG<br/>
  ┣ 📂layout<br/>
